@@ -6,6 +6,7 @@ Fraud Detection & Investigation Demo
 - A [dump](./TheGraphPolice_dump_auradb_5.6.tar) of the database. It's tested on Aura 5.26, uses top-tier features like RBAC and requires 400 MB of storage. 
 - A [NeoDash dashboard](./TheGraphPolice_dashboard_fraud_detection.json) which is also persisted in the database.
 - A [Bloom Perspective](./TheGraphPolice_bloom_perspective_fraud_investigation.json)
+- An [example cypher script](./example_create_user_rbac.cypher) to create a new database user with priviledges to manage cases.
 
 ## Dataset presentation
 
