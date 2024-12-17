@@ -68,9 +68,9 @@ It contains data about healthcare professionals and the way they interact betwee
     
 - Bloom-based investigation:
 
-[![Case Management](https://img.youtube.com/vi/dhg7m-rmy60/0.jpg)](https://www.youtube.com/watch?v=dhg7m-rmy60)
+[![Bloom investigation](https://img.youtube.com/vi/dhg7m-rmy60/0.jpg)](https://www.youtube.com/watch?v=dhg7m-rmy60)
+
   - *show investigations* search phrase
   - lasso selection
   - *show common PIIs* scene action [there's a twist here]
   - *label fraudulent* scene action 
-  
