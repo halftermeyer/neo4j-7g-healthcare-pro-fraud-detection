@@ -40,13 +40,17 @@ It contains data about healthcare professionals and the way they interact betwee
   - Know Your Healthcare professional (Pro 360)
     [![video of pro 360](https://img.youtube.com/vi/dMyeZlyMNMo/0.jpg)](https://www.youtube.com/watch?v=dMyeZlyMNMo)
   - Fraud detection scenarios: they are part of the Pro 360 view (Investigation) and some are also processed at the whole database scale in dedicated tabs (Detection).
-    - Unlikely association of cares during same visit 
+    - Unlikely association of cares during same visit
+    [![Unlikely association](https://img.youtube.com/vi/uub31K26SSU/0.jpg)](https://www.youtube.com/watch?v=uub31K26SSU)
     - Suspicious distance Pro/Beneficiary
+    [![Suspicious distance Pro/Beneficiary](https://img.youtube.com/vi/yHFxZcJOyNQ/0.jpg)](https://www.youtube.com/watch?v=yHFxZcJOyNQ)
     - Repeated same acts by a Pro
+    [![Repeated same acts by a Pro](https://img.youtube.com/vi/QhO74O4Cf8s/0.jpg)](https://www.youtube.com/watch?v=QhO74O4Cf8s)
+    https://youtu.be/QhO74O4Cf8s
     - Prescriber to Executor suspicious flow
     - Prescriber and Executor are the same person
   - Case Management: a case can be created in the Pro 360 tab and cases are visible in the Case Management tab
-    [![video of pro 360](https://img.youtube.com/vi/w0mxS5Laf1g/0.jpg)](https://www.youtube.com/watch?v=w0mxS5Laf1g)
+    [![Case Management](https://img.youtube.com/vi/w0mxS5Laf1g/0.jpg)](https://www.youtube.com/watch?v=w0mxS5Laf1g)
     
 - Bloom-based investigation:
   - *show investigations* search phrase
