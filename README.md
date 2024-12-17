@@ -1,4 +1,4 @@
-# neo4j-7g-healthcare-pro-fraud-detection
+# Neo4j Solution Engineering Hackathon, Fraud Detection & Investigation Demo
 
 ## Dataset presentation
 
