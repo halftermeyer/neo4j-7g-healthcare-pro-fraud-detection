@@ -11,7 +11,7 @@ It contains data about healthcare professionals and the way they interact betwee
 
 - Healthcare professional fraud detection
 
-![alt text](https://github.com/halftermeyer/neo4j-7g-healthcare-pro-fraud-detection/blob/main/media/image.jpg?raw=true)
+![alt text](https://github.com/halftermeyer/neo4j-7g-healthcare-pro-fraud-detection/blob/main/media/healthcare_model.png?raw=true)
 
 - Healthcare professional fraud investigation
 - Case Management
