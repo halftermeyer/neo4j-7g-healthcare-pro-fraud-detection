@@ -53,10 +53,17 @@ It contains data about healthcare professionals and the way they interact betwee
     - Repeated same acts by a Pro
 
     [![Repeated same acts by a Pro](https://img.youtube.com/vi/QhO74O4Cf8s/0.jpg)](https://www.youtube.com/watch?v=QhO74O4Cf8s)
+
     - Prescriber to Executor suspicious flow
+
+    [![Prescriber to Executor suspicious flow](https://img.youtube.com/vi/_F0jSwURNgU/0.jpg)](https://www.youtube.com/watch?v=_F0jSwURNgU)
+
     - Prescriber and Executor are the same person
+
+    [![Prescriber and Executor are the same person](https://img.youtube.com/vi/dc2a4a0WPh8/0.jpg)](https://www.youtube.com/watch?v=dc2a4a0WPh8)
+
   - Case Management: a case can be created in the Pro 360 tab and cases are visible in the Case Management tab
-  
+
     [![Case Management](https://img.youtube.com/vi/w0mxS5Laf1g/0.jpg)](https://www.youtube.com/watch?v=w0mxS5Laf1g)
     
 - Bloom-based investigation:
