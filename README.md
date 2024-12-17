@@ -46,7 +46,6 @@ It contains data about healthcare professionals and the way they interact betwee
     [![Suspicious distance Pro/Beneficiary](https://img.youtube.com/vi/yHFxZcJOyNQ/0.jpg)](https://www.youtube.com/watch?v=yHFxZcJOyNQ)
     - Repeated same acts by a Pro
     [![Repeated same acts by a Pro](https://img.youtube.com/vi/QhO74O4Cf8s/0.jpg)](https://www.youtube.com/watch?v=QhO74O4Cf8s)
-    https://youtu.be/QhO74O4Cf8s
     - Prescriber to Executor suspicious flow
     - Prescriber and Executor are the same person
   - Case Management: a case can be created in the Pro 360 tab and cases are visible in the Case Management tab
