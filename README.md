@@ -38,7 +38,7 @@ It contains data about healthcare professionals and the way they interact betwee
 #### The demo is broken down into parts:
 - NeoDash-based app for:
   - Know Your Healthcare professional (Pro 360)
-    [![video of pro 360](https://img.youtube.com/vi/MXpUQyeUbSM/0.jpg)](https://www.youtube.com/watch?v=MXpUQyeUbSM)
+    [![video of pro 360](https://img.youtube.com/vi/dMyeZlyMNMo/0.jpg)](https://www.youtube.com/watch?v=dMyeZlyMNMo)
   - Fraud detection scenarios: they are part of the Pro 360 view (Investigation) and some are also processed at the whole database scale in dedicated tabs (Detection).
     - Unlikely association of cares during same visit 
     - Suspicious distance Pro/Beneficiary
