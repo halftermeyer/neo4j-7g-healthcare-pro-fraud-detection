@@ -10,13 +10,23 @@ It contains data about healthcare professionals and the way they interact betwee
 #### In the same database lives the data for several use cases:
 
 - Healthcare professional fraud detection
-
-![alt text](https://github.com/halftermeyer/neo4j-7g-healthcare-pro-fraud-detection/blob/main/media/healthcare_model.png?raw=true)
-
 - Healthcare professional fraud investigation
+
+![healthcare_model](https://github.com/halftermeyer/neo4j-7g-healthcare-pro-fraud-detection/blob/main/media/healthcare_model.png?raw=true)
+
 - Case Management
+
+![case_mngt_model](https://github.com/halftermeyer/neo4j-7g-healthcare-pro-fraud-detection/blob/main/media/case_mngt_model.png?raw=true)
+
+
 - KYW - Know Your Whoever
+
+![kyw_model](https://github.com/halftermeyer/neo4j-7g-healthcare-pro-fraud-detection/blob/main/media/kyw_model.png?raw=true)
+
 - HR database
+
+
+![hr_model](https://github.com/halftermeyer/neo4j-7g-healthcare-pro-fraud-detection/blob/main/media/hr_model.png?raw=true)
 
 #### The dataset could be upgraded for other use cases like:
 
