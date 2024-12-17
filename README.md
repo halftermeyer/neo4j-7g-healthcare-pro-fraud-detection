@@ -12,6 +12,7 @@ Fraud Detection & Investigation Demo
 
 This is a synthetic dataset created as a demo to address french insurance companies.
 It contains data about healthcare professionals and the way they interact between each other and with patients (Beneficiary in the insurance company perspective).
+The dataset is built from a KNN graph of users using euclidian distance between their GPS coordinate. The probability of an interaction between to actors of the network decreases with the distance.
 
 ## Database presentation
 
