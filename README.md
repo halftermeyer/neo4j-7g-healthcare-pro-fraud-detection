@@ -1,14 +1,15 @@
 # Neo4j Solution Engineering Hackathon
-Fraud Detection & Investigation Demo
 
-## All material available here:
+##Fraud Detection & Investigation Demo
+
+### All material available here:
 
 - A [dump](./TheGraphPolice_dump_auradb_5.6.tar) of the database. It's tested on Aura 5.26, uses top-tier features like RBAC and requires 400 MB of storage. 
 - A [NeoDash dashboard](./TheGraphPolice_dashboard_fraud_detection.json) which is also persisted in the database.
 - A [Bloom Perspective](./TheGraphPolice_bloom_perspective_fraud_investigation.json)
 - An [example cypher script](./example_create_user_rbac.cypher) to create a new database user with priviledges to manage cases.
 
-## Dataset presentation
+### Dataset presentation
 
 This is a synthetic dataset created as a demo to address french insurance companies.
 It contains data about healthcare professionals and the way they interact between each other and with patients (Beneficiary in the insurance company perspective).
@@ -45,7 +46,7 @@ If there's a need to dive deep in how the graph is built, a similar -- but someh
 - Fire, Accidents and Miscellaneous Risks
 - AML/CFT
 
-## Demo presentation
+### Demo presentation
 
 #### The demo can be reset from neodash first tab
 
