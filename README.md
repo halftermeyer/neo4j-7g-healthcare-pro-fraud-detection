@@ -46,6 +46,8 @@ It contains data about healthcare professionals and the way they interact betwee
     - Prescriber to Executor suspicious flow
     - Prescriber and Executor are the same person
   - Case Management: a case can be created in the Pro 360 tab and cases are visible in the Case Management tab
+    [![video of pro 360](https://img.youtube.com/vi/w0mxS5Laf1g/0.jpg)](https://www.youtube.com/watch?v=w0mxS5Laf1g)
+    
 - Bloom-based investigation:
   - *show investigations* search phrase
   - lasso selection
