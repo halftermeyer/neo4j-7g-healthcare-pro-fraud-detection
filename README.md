@@ -1,6 +1,6 @@
 # Neo4j Solution Engineering Hackathon
 
-##Fraud Detection & Investigation Demo
+## Fraud Detection & Investigation Demo
 
 ### All material available here:
 
