@@ -35,6 +35,12 @@ It contains data about healthcare professionals and the way they interact betwee
 - AML/CFT
 
 ## Demo presentation
+
+#### The demo can be reset from neodash first tab
+
+[![Unlikely association](https://img.youtube.com/vi/ifqc-LkD4-4/0.jpg)](https://www.youtube.com/watch?v=ifqc-LkD4-4)
+
+
 #### The demo is broken down into parts:
 - NeoDash-based app for:
   - Know Your Healthcare professional (Pro 360)
@@ -73,4 +79,4 @@ It contains data about healthcare professionals and the way they interact betwee
   - *show investigations* search phrase
   - lasso selection
   - *show common PIIs* scene action [there's a twist here]
-  - *label fraudulent* scene action 
+  - *label fraudulent* scene action
