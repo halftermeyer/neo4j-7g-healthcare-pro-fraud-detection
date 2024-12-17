@@ -1,4 +1,5 @@
-# Neo4j Solution Engineering Hackathon, Fraud Detection & Investigation Demo
+# Neo4j Solution Engineering Hackathon
+Fraud Detection & Investigation Demo
 
 ## Dataset presentation
 
