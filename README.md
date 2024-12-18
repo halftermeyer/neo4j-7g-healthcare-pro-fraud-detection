@@ -88,8 +88,8 @@ This is a synthetic Dataset, created as a Demo to address insurance companies (F
   - *label fraudulent* scene action
 
 ### All materials are available for free usages here:
-- [dump](./TheGraphPolice_dump_auradb_5.6.tar) of the database. Tested for Neo4j AuraDB 5.26, uses top-tier features like RBAC and requires ~400 MB of storage.
-- [NeoDash Dashboard](./TheGraphPolice_dashboard_fraud_detection.json) which is also persisted in the database.
-- [Bloom Perspective](./TheGraphPolice_bloom_perspective_fraud_investigation.json)
-- [Cypher Script](./example_create_user_rbac.cypher) to create a new user on the DB, with enough privileges for *read* and *Case Management*.
+- Download the [dump](./TheGraphPolice_dump_auradb_5.6.tar) file for the entire dataset. This was tested for Neo4j AuraDB 5.26, and uses top-tier features like RBAC and requires ~400 MB of storage.
+- Use a [NeoDash Dashboard](./TheGraphPolice_dashboard_fraud_detection.json) which is also persisted in the DB.
+- Use a [Bloom Perspective](./TheGraphPolice_bloom_perspective_fraud_investigation.json)
+- This is a [Cypher Script](./example_create_user_rbac.cypher) which will create a new user on the DB, with enough privileges for *read* and *Case Management*.
 
