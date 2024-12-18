@@ -6,6 +6,7 @@
 ### Demo & Dataset Background
 
 This is a synthetic Dataset, created as a Demo to address insurance companies (French).
+
 It contains data about Healthcare Professionals and the way they interact between each other, and with their patients (_Beneficiary_ in the Insurance Company perspective).
 The Dataset is built from a KNN Graph of users using Euclidian Distance between their GPS coordinate.
 The probability of an interaction between nodes of the network decreases with the distance.
