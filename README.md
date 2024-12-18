@@ -1,5 +1,5 @@
 ## Fraud Detection & Investigation Demo
-# Neo4j Solution Engineering Hackathon
+# Neo4j Solution Engineering Hackathon - Team The Graph Police🕵️‍♂️🔍
 
 
 ### Dataset presentation
