@@ -3,57 +3,59 @@
 # The Graph Police🕵️‍♂️🔍
 
 
-### Dataset presentation
+### Dataset Background
 
-This is a synthetic dataset created as a demo to address french insurance companies.
-It contains data about healthcare professionals and the way they interact between each other and with patients (Beneficiary in the insurance company perspective).
-The dataset is built from a KNN graph of users using euclidian distance between their GPS coordinate. The probability of an interaction between to actors of the network decreases with the distance.
+This is a synthetic Dataset, created as a Demo to address insurance companies (French).
+It contains data about Healthcare Professionals and the way they interact between each other, and with their patients (_Beneficiary_ in the Insurance Company perspective).
+The Dataset is built from a KNN Graph of users using Euclidian Distance between their GPS coordinate.
+The probability of an interaction between nodes of the network decreases with the distance.
 
-If there's a need to dive deep in how the graph is built, a similar -- but somehow different as it's a randomized process -- graph can be rebuilt with [this material](./ingestion/). 
+If there's a need to dive deep in how the graph is built, you can rebuilt the Graph with [this material](./ingestion/). 
 
-## Database presentation
+## Database
 
-#### In the same database lives the data for several use cases:
+#### In the same DB we can find the data for several use cases:
 
-- Healthcare professional fraud detection
-- Healthcare professional fraud investigation
+1. Healthcare Professional Fraud Detection
+2. Healthcare professional Fraud Investigation
 
 ![healthcare_model](https://github.com/halftermeyer/neo4j-7g-healthcare-pro-fraud-detection/blob/main/media/healthcare_model.png?raw=true)
 
-- Case Management
+3. Case Management
 
 ![case_mngt_model](https://github.com/halftermeyer/neo4j-7g-healthcare-pro-fraud-detection/blob/main/media/case_mngt_model.png?raw=true)
 
 
-- KYW - Know Your Whoever
+4. KYW - Know Your Whoever
 
 ![kyw_model](https://github.com/halftermeyer/neo4j-7g-healthcare-pro-fraud-detection/blob/main/media/kyw_model.png?raw=true)
 
-- HR database
+5. HR
 
 
 ![hr_model](https://github.com/halftermeyer/neo4j-7g-healthcare-pro-fraud-detection/blob/main/media/hr_model.png?raw=true)
 
-#### The dataset could be upgraded for other use cases like:
+#### The Dataset could be used and expanded for other use cases like:
 
-- Healthcare insurance beneficiary fraud detection (not in the demo)
-- Fire, Accidents and Miscellaneous Risks
+- Healthcare Isurance Beneficiary Fraud Detection (not in this Demo)
+- Fire, Accidents and Miscellaneous Risks Mitigation
 - AML/CFT
+- Others
+
 
 ### Demo presentation
-
-#### The demo can be reset from neodash first tab
+#### The Demo can be reset from neodash first tab
 
 [![Unlikely association](https://img.youtube.com/vi/ifqc-LkD4-4/0.jpg)](https://www.youtube.com/watch?v=ifqc-LkD4-4)
 
 
-#### The demo is broken down into parts:
-- NeoDash-based app for:
-  - Know Your Healthcare professional (Pro 360)
+#### The demo is splitted into several parts:
+- NeoDash based app for:
+  - Know Your Healthcare Professional (_Pro 360_)
 
     [![video of pro 360](https://img.youtube.com/vi/dMyeZlyMNMo/0.jpg)](https://www.youtube.com/watch?v=dMyeZlyMNMo)
 
-  - Fraud detection scenarios: they are part of the Pro 360 view (Investigation) and some are also processed at the whole database scale in dedicated tabs (Detection).
+  - Fraud Detection scenarios: They are part of the _Pro 360_ view (Investigation) and some are also processed at the whole DB scale in dedicated tabs (Detection).
     - Unlikely association of cares during same visit
 
     [![Unlikely association](https://img.youtube.com/vi/uub31K26SSU/0.jpg)](https://www.youtube.com/watch?v=uub31K26SSU)
@@ -78,7 +80,7 @@ If there's a need to dive deep in how the graph is built, a similar -- but someh
 
     [![Case Management](https://img.youtube.com/vi/w0mxS5Laf1g/0.jpg)](https://www.youtube.com/watch?v=w0mxS5Laf1g)
     
-- Bloom-based investigation:
+- Bloom Based Investigation:
 
 [![Bloom investigation](https://img.youtube.com/vi/dhg7m-rmy60/0.jpg)](https://www.youtube.com/watch?v=dhg7m-rmy60)
 
