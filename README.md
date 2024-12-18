@@ -1,4 +1,4 @@
-<h1>## Fraud Detection & Investigation Demo</h1>
+## Fraud Detection & Investigation Demo<
 
 # Neo4j Solution Engineering Hackathon
 # The Graph Police🕵️‍♂️🔍
