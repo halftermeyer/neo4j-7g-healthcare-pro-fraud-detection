@@ -1,13 +1,5 @@
 # Neo4j Solution Engineering Hackathon
-
 ## Fraud Detection & Investigation Demo
-
-### All material available here:
-
-- A [dump](./TheGraphPolice_dump_auradb_5.6.tar) of the database. It's tested on Aura 5.26, uses top-tier features like RBAC and requires 400 MB of storage. 
-- A [NeoDash dashboard](./TheGraphPolice_dashboard_fraud_detection.json) which is also persisted in the database.
-- A [Bloom Perspective](./TheGraphPolice_bloom_perspective_fraud_investigation.json)
-- An [example cypher script](./example_create_user_rbac.cypher) to create a new database user with enough privileges for *read* and *case management*.
 
 ### Dataset presentation
 
@@ -92,3 +84,10 @@ If there's a need to dive deep in how the graph is built, a similar -- but someh
   - lasso selection
   - *show common PIIs* scene action [there's a twist here]
   - *label fraudulent* scene action
+
+### All materials are available for free usages here:
+- [dump](./TheGraphPolice_dump_auradb_5.6.tar) of the database. Tested for Neo4j AuraDB 5.26, uses top-tier features like RBAC and requires ~400 MB of storage.
+- [NeoDash Dashboard](./TheGraphPolice_dashboard_fraud_detection.json) which is also persisted in the database.
+- [Bloom Perspective](./TheGraphPolice_bloom_perspective_fraud_investigation.json)
+- [Cypher Script](./example_create_user_rbac.cypher) to create a new user on the DB, with enough privileges for *read* and *Case Management*.
+
