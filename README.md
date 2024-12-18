@@ -14,7 +14,7 @@ This is a synthetic Dataset, created as a Demo to address insurance companies (F
 
 ## Database
 
-#### In the same DB we can find the data for several use cases:
+#### In the same DB we can find that our dataset can Demo several use cases:
 
 1. Healthcare Professional Fraud Detection
 2. Healthcare professional Fraud Investigation
