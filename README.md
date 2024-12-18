@@ -16,35 +16,33 @@ This is a synthetic Dataset, created as a Demo to address insurance companies (F
 
 #### In the same DB we can find that our dataset can Demo several use cases:
 
-1. Healthcare Professional Fraud Detection
-2. Healthcare professional Fraud Investigation
+1. Healthcare Professional Fraud Detection & Fraud Investigation
 
 ![healthcare_model](https://github.com/halftermeyer/neo4j-7g-healthcare-pro-fraud-detection/blob/main/media/healthcare_model.png?raw=true)
 
-3. Case Management
+2. Case Management
 
 ![case_mngt_model](https://github.com/halftermeyer/neo4j-7g-healthcare-pro-fraud-detection/blob/main/media/case_mngt_model.png?raw=true)
 
 
-4. KYW - Know Your Whoever
+3. KYW - Know Your Whoever
 
 ![kyw_model](https://github.com/halftermeyer/neo4j-7g-healthcare-pro-fraud-detection/blob/main/media/kyw_model.png?raw=true)
 
-5. HR
-
+4. HR
 
 ![hr_model](https://github.com/halftermeyer/neo4j-7g-healthcare-pro-fraud-detection/blob/main/media/hr_model.png?raw=true)
 
 #### The Dataset could be used and expanded for other use cases like:
 
-- Healthcare Isurance Beneficiary Fraud Detection (not in this Demo)
+- Healthcare Isurance Beneficiary Fraud Detection (not within this Demo)
 - Fire, Accidents and Miscellaneous Risks Mitigation
 - AML/CFT
 - Others
 
 
-### Demo presentation
-#### The Demo can be reset from neodash first tab
+## Demo presentation
+#### The current Demo can be reset from neodash first tab
 
 [![Unlikely association](https://img.youtube.com/vi/ifqc-LkD4-4/0.jpg)](https://www.youtube.com/watch?v=ifqc-LkD4-4)
 
